@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Atmel Studio Solution File, Format Version 11.00
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "ATmega32u4_cspb_processor", "CSPB_8MHz\ATmega32u4_cspb_processor\ATmega32u4_cspb_processor.cppproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "ArduinoCore", "CSPB\ArduinoCore\ArduinoCore.cppproj", "{2DA98C76-2336-476E-A436-FC26405B3A3D}"
 EndProject
-Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "ArduinoCore", "CSPB_8MHz\ArduinoCore\ArduinoCore.cppproj", "{2DA98C76-2336-476E-A436-FC26405B3A3D}"
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "ATmega32u4_cspb_processor", "CSPB\Atmega32u4_cspb_processor\ATmega32u4_cspb_processor.cppproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|AVR = Release|AVR
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.ActiveCfg = Debug|AVR
-		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.Build.0 = Debug|AVR
-		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.ActiveCfg = Release|AVR
-		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.Build.0 = Release|AVR
 		{2DA98C76-2336-476E-A436-FC26405B3A3D}.Debug|AVR.ActiveCfg = Debug|AVR
 		{2DA98C76-2336-476E-A436-FC26405B3A3D}.Debug|AVR.Build.0 = Debug|AVR
 		{2DA98C76-2336-476E-A436-FC26405B3A3D}.Release|AVR.ActiveCfg = Release|AVR
 		{2DA98C76-2336-476E-A436-FC26405B3A3D}.Release|AVR.Build.0 = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.Build.0 = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.ActiveCfg = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.Build.0 = Release|AVR
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

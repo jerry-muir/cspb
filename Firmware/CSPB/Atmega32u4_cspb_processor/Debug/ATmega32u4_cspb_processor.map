@@ -1,0 +1,1539 @@
+Archive member included to satisfy reference by file (symbol)
+
+E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+                              Sketch.o (_ZN7Serial_5beginEm)
+E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5/crtatmega32u4.o (main)
+E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                              Sketch.o (_ZN5Print5printEPKc)
+E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+                              E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o) (_Z13USB_Availableh)
+E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                              Sketch.o (millis)
+E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                              Sketch.o (pinMode)
+E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                              Sketch.o (_ZN7TwoWire4readEv)
+E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+                              E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__cxa_pure_virtual)
+E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                              E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring.o) (yield)
+E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(PluggableUSB.o)
+                              E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o) (_ZN13PluggableUSB_12getInterfaceEPh)
+E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                              E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o) (twi_init)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__subsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__ltsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__divsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__fixunssfsi)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__floatunsisf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__gtsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__mulsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                              E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__unordsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                              E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__udivmodsi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5/crtatmega32u4.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                              E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o) (__tablejump2__)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              Sketch.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              Sketch.o (__do_clear_bss)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                              E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o) (__do_global_ctors)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+                              E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(abi.o) (abort)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(sprintf.o)
+                              Sketch.o (sprintf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(sprintf.o) (vfprintf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen_P)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (fputc)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (__ultoa_invert)
+C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eerd_byte.o)
+                              Sketch.o (eeprom_read_byte)
+C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eewr_byte.o)
+                              Sketch.o (eeprom_write_byte)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(sprintf.o) (__prologue_saves__)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(sprintf.o) (__epilogue_restores__)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+ .group         0x00000000        0x8 Sketch.o
+ .text          0x00000000        0x0 Sketch.o
+ .data          0x00000000        0x0 Sketch.o
+ .bss           0x00000000        0x0 Sketch.o
+ .bss.count_test
+                0x00000000        0x2 Sketch.o
+ .group         0x00000000        0x8 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .group         0x00000000        0x8 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .group         0x00000000        0x8 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .text          0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .data          0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .bss           0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .text._ZN7Serial_5beginEmh
+                0x00000000        0xc E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .text._ZN7Serial_3endEv
+                0x00000000        0x2 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .text._ZN7Serial_cvbEv
+                0x00000000       0x1e E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .text._ZN7Serial_4baudEv
+                0x00000000       0x18 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .text._ZN7Serial_8stopbitsEv
+                0x00000000        0x6 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .text._ZN7Serial_10paritytypeEv
+                0x00000000        0x6 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .text._ZN7Serial_7numbitsEv
+                0x00000000        0x6 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .text._ZN7Serial_3dtrEv
+                0x00000000        0x8 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .text._ZN7Serial_3rtsEv
+                0x00000000        0xa E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .text._ZN7Serial_9readBreakEv
+                0x00000000       0x40 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .text          0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .data          0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .bss           0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .text.atexit   0x00000000        0x6 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .text._Z8setupUSBv
+                0x00000000        0x2 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .group         0x00000000        0x8 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .data          0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .bss           0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print17availableForWriteEv
+                0x00000000        0x6 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5writeEPKhj
+                0x00000000       0x54 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x00000000       0x48 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x00000000       0x1c E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK9Printable
+                0x00000000       0x14 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x00000000       0x24 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x00000000       0x24 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEPKc
+                0x00000000       0x24 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEc
+                0x00000000       0x24 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000       0x24 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEhi
+                0x00000000        0xe E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEhi
+                0x00000000       0x24 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEmi
+                0x00000000       0x24 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x00000000       0x24 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print10printFloatEdh
+                0x00000000      0x1b6 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEdi
+                0x00000000        0x4 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEdi
+                0x00000000       0x24 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .rodata._ZTV5Print
+                0x00000000        0xc E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+ .text          0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+ .data          0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+ .bss           0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+ .text._Z19USBGetConfigurationv
+                0x00000000        0x6 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+ .text._Z12USBConnectedv
+                0x00000000       0x22 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+ .text._ZN10USBDevice_C2Ev
+                0x00000000        0x2 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+ .text._ZN10USBDevice_6detachEv
+                0x00000000        0x2 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+ .text._ZN10USBDevice_10configuredEv
+                0x00000000        0xe E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+ .text._ZN10USBDevice_4pollEv
+                0x00000000        0x2 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+ .text._ZN10USBDevice_10wakeupHostEv
+                0x00000000       0x38 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+ .text._ZN10USBDevice_11isSuspendedEv
+                0x00000000        0x8 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+ .text          0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .data          0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .bss           0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text.delayMicroseconds
+                0x00000000       0x12 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text          0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .data          0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .bss           0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .progmem.data.analog_pin_to_channel_PGM
+                0x00000000        0xc E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .group         0x00000000        0x8 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .group         0x00000000        0x8 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .group         0x00000000        0x8 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text          0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .data          0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .bss           0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN5Print17availableForWriteEv
+                0x00000000        0x6 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire8setClockEm
+                0x00000000       0x28 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire11requestFromEhhh
+                0x00000000       0x1a E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire11requestFromEhh
+                0x00000000        0x6 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire11requestFromEii
+                0x00000000        0x6 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire11requestFromEiii
+                0x00000000        0x4 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire17beginTransmissionEh
+                0x00000000       0x14 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire17beginTransmissionEi
+                0x00000000        0x4 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire15endTransmissionEh
+                0x00000000       0x26 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire15endTransmissionEv
+                0x00000000        0x6 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .bss._ZN7TwoWire9txAddressE
+                0x00000000        0x1 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text          0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .data          0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .bss           0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text.__cxa_pure_virtual
+                0x00000000        0x4 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text.__cxa_deleted_virtual
+                0x00000000        0x4 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_info    0x00000000       0x76 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_abbrev  0x00000000       0x6d E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_aranges
+                0x00000000       0x20 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_ranges  0x00000000       0x10 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_line    0x00000000       0xa9 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_str     0x00000000      0x18e E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .comment       0x00000000       0x31 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_frame   0x00000000       0x34 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text          0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .data          0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .bss           0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .text          0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(PluggableUSB.o)
+ .data          0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(PluggableUSB.o)
+ .bss           0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(PluggableUSB.o)
+ .text._ZN13PluggableUSB_4plugEP18PluggableUSBModule
+                0x00000000       0x8e E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(PluggableUSB.o)
+ .text._ZN13PluggableUSB_C2Ev
+                0x00000000       0x10 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(PluggableUSB.o)
+ .text          0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .data          0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss           0x00000000        0x0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .text.twi_readFrom
+                0x00000000       0x88 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .text.twi_writeTo
+                0x00000000       0xa4 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .text.twi_reply
+                0x00000000       0x10 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xcc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xdc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text.avr-libc.fplib
+                0x00000000       0x5e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text.avr-libc.fplib
+                0x00000000       0x7a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text.avr-libc.fplib
+                0x00000000       0x48 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text.avr-libc.fplib
+                0x00000000        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text.avr-libc.fplib
+                0x00000000        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text.avr-libc.fplib
+                0x00000000       0x22 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text.avr-libc.fplib
+                0x00000000       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xd2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .text.avr-libc
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(sprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(sprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(sprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eerd_byte.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eerd_byte.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eerd_byte.o)
+ .text          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eewr_byte.o)
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eewr_byte.o)
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eewr_byte.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00008000         xr
+data             0x00800100         0x00000a00         rw !x
+eeprom           0x00810000         0x00000400         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+LOAD Sketch.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a
+END GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5\libatmega32u4.a
+END GROUP
+                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800100]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00000a00]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x254a
+ *(.vectors)
+ .vectors       0x00000000       0xac C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.turnOffPWM
+                0x000000ac       0x1e E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000ca                . = ALIGN (0x2)
+                0x000000ca                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000ca        0x0 linker stubs
+ *(.trampolines*)
+                0x000000ca                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data._cdcInterface
+                0x000000ca       0x42 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+                0x000000ca                _cdcInterface
+ .progmem.data.USB_DeviceDescriptorIAD
+                0x0000010c       0x12 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+                0x0000010c                USB_DeviceDescriptorIAD
+ .progmem.data.STRING_MANUFACTURER
+                0x0000011e        0x9 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+                0x0000011e                STRING_MANUFACTURER
+ .progmem.data.STRING_PRODUCT
+                0x00000127       0x17 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+                0x00000127                STRING_PRODUCT
+ .progmem.data.STRING_LANGUAGE
+                0x0000013e        0x4 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+                0x0000013e                STRING_LANGUAGE
+ .progmem.data.digital_pin_to_timer_PGM
+                0x00000142       0x1f E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000142                digital_pin_to_timer_PGM
+ .progmem.data.digital_pin_to_bit_mask_PGM
+                0x00000161       0x1f E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000161                digital_pin_to_bit_mask_PGM
+ .progmem.data.digital_pin_to_port_PGM
+                0x00000180       0x1f E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000180                digital_pin_to_port_PGM
+ .progmem.data.port_to_input_PGM
+                0x0000019f        0xe E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x0000019f                port_to_input_PGM
+ .progmem.data.port_to_output_PGM
+                0x000001ad        0xe E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000001ad                port_to_output_PGM
+ .progmem.data.port_to_mode_PGM
+                0x000001bb        0xe E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000001bb                port_to_mode_PGM
+                0x000001ca                . = ALIGN (0x2)
+ *fill*         0x000001c9        0x1 
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000001ca                __ctors_start = .
+ *(.ctors)
+ .ctors         0x000001ca        0x2 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .ctors         0x000001cc        0x2 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x000001ce                __ctors_end = .
+                0x000001ce                __dtors_start = .
+ *(.dtors)
+                0x000001ce                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000001ce        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+                0x000001ce                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000001ce        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000001da       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x000001da                __do_copy_data
+ .init4         0x000001f0       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x000001f0                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x00000200       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                0x00000200                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000216        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+ *(.init9)
+ *(.text)
+ .text          0x0000021e        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+                0x0000021e                __vector_38
+                0x0000021e                __vector_22
+                0x0000021e                __vector_28
+                0x0000021e                __vector_1
+                0x0000021e                __vector_32
+                0x0000021e                __vector_34
+                0x0000021e                __vector_24
+                0x0000021e                __vector_12
+                0x0000021e                __bad_interrupt
+                0x0000021e                __vector_6
+                0x0000021e                __vector_31
+                0x0000021e                __vector_35
+                0x0000021e                __vector_39
+                0x0000021e                __vector_3
+                0x0000021e                __vector_30
+                0x0000021e                __vector_25
+                0x0000021e                __vector_13
+                0x0000021e                __vector_17
+                0x0000021e                __vector_19
+                0x0000021e                __vector_7
+                0x0000021e                __vector_41
+                0x0000021e                __vector_27
+                0x0000021e                __vector_5
+                0x0000021e                __vector_33
+                0x0000021e                __vector_37
+                0x0000021e                __vector_4
+                0x0000021e                __vector_9
+                0x0000021e                __vector_2
+                0x0000021e                __vector_21
+                0x0000021e                __vector_15
+                0x0000021e                __vector_29
+                0x0000021e                __vector_40
+                0x0000021e                __vector_8
+                0x0000021e                __vector_26
+                0x0000021e                __vector_14
+                0x0000021e                __vector_16
+                0x0000021e                __vector_18
+                0x0000021e                __vector_20
+                0x0000021e                __vector_42
+                0x00000222                . = ALIGN (0x2)
+ *(.text.*)
+ .text._ZN11EEPROMClass4readEi.isra.0
+                0x00000222        0x4 Sketch.o
+ .text._ZN7TwoWire5writeEi
+                0x00000226        0xe Sketch.o
+                0x00000226                _ZN7TwoWire5writeEi
+ .text._Z20waitForShutdownStatei
+                0x00000234       0x9c Sketch.o
+                0x00000234                _Z20waitForShutdownStatei
+ .text._Z14get_port_statePKi
+                0x000002d0       0x68 Sketch.o
+                0x000002d0                _Z14get_port_statePKi
+ .text._Z11setPinStateii
+                0x00000338       0x18 Sketch.o
+                0x00000338                _Z11setPinStateii
+ .text.setup    0x00000350      0x1a4 Sketch.o
+                0x00000350                setup
+ .text._Z12setSlotPowerj
+                0x000004f4       0x76 Sketch.o
+                0x000004f4                _Z12setSlotPowerj
+ .text._Z20signalShutdownOnSloti
+                0x0000056a       0x4e Sketch.o
+                0x0000056a                _Z20signalShutdownOnSloti
+ .text._Z13powerDownSloti
+                0x000005b8       0x16 Sketch.o
+                0x000005b8                _Z13powerDownSloti
+ .text._Z12ShutdownSlotj
+                0x000005ce       0x4e Sketch.o
+                0x000005ce                _Z12ShutdownSlotj
+ .text._Z14processCommandv
+                0x0000061c       0xb8 Sketch.o
+                0x0000061c                _Z14processCommandv
+ .text.loop     0x000006d4       0x6a Sketch.o
+                0x000006d4                loop
+ .text._Z12receiveEventi
+                0x0000073e       0xce Sketch.o
+                0x0000073e                _Z12receiveEventi
+ .text._Z12requestEventv
+                0x0000080c       0x72 Sketch.o
+                0x0000080c                _Z12requestEventv
+ .text._ZN5Print17availableForWriteEv
+                0x0000087e        0x6 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+                0x0000087e                _ZN5Print17availableForWriteEv
+ .text._ZN7Serial_5writeEh
+                0x00000884       0x2c E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+                0x00000884                _ZN7Serial_5writeEh
+ .text._ZN7Serial_4peekEv
+                0x000008b0       0x22 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+                0x000008b0                _ZN7Serial_4peekEv
+ .text._ZN7Serial_17availableForWriteEv
+                0x000008d2        0xa E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+                0x000008d2                _ZN7Serial_17availableForWriteEv
+ .text._ZN7Serial_5flushEv
+                0x000008dc        0x6 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+                0x000008dc                _ZN7Serial_5flushEv
+ .text._ZN7Serial_9availableEv
+                0x000008e2       0x20 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+                0x000008e2                _ZN7Serial_9availableEv
+ .text._ZN7Serial_4readEv
+                0x00000902       0x1a E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+                0x00000902                _ZN7Serial_4readEv
+ .text._ZN7Serial_5writeEPKhj
+                0x0000091c       0x2c E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+                0x0000091c                _ZN7Serial_5writeEPKhj
+ .text._Z16isLUFAbootloaderv
+                0x00000948       0x14 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+                0x00000948                _Z16isLUFAbootloaderv
+ .text._Z16CDC_GetInterfacePh
+                0x0000095c       0x16 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+                0x0000095c                _Z16CDC_GetInterfacePh
+ .text._Z9CDC_SetupR8USBSetup
+                0x00000972      0x11c E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+                0x00000972                _Z9CDC_SetupR8USBSetup
+ .text._ZN7Serial_5beginEm
+                0x00000a8e        0xc E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+                0x00000a8e                _ZN7Serial_5beginEm
+ .text.startup._GLOBAL__sub_I__cdcInterface
+                0x00000a9a       0x2a E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .text.initVariant
+                0x00000ac4        0x2 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x00000ac4                initVariant
+ .text.startup.main
+                0x00000ac6       0x26 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x00000ac6                main
+ .text._ZN5Print5writeEPKc
+                0x00000aec       0x2a E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000aec                _ZN5Print5writeEPKc
+ .text._ZN5Print5printEPKc
+                0x00000b16        0x4 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000b16                _ZN5Print5printEPKc
+ .text._ZN5Print5printEc
+                0x00000b1a        0xe E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000b1a                _ZN5Print5printEc
+ .text._ZN5Print7printlnEv
+                0x00000b28        0x8 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000b28                _ZN5Print7printlnEv
+ .text._ZN5Print11printNumberEmh
+                0x00000b30       0x92 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000b30                _ZN5Print11printNumberEmh
+ .text._ZN5Print5printEmi
+                0x00000bc2       0x1a E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000bc2                _ZN5Print5printEmi
+ .text._ZN5Print5printEji
+                0x00000bdc        0xc E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000bdc                _ZN5Print5printEji
+ .text._ZN5Print7printlnEji
+                0x00000be8       0x24 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000be8                _ZN5Print7printlnEji
+ .text._ZN5Print5printEli
+                0x00000c0c       0x90 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000c0c                _ZN5Print5printEli
+ .text._ZN5Print5printEii
+                0x00000c9c        0xe E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000c9c                _ZN5Print5printEii
+ .text._ZN5Print7printlnEii
+                0x00000caa       0x24 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000caa                _ZN5Print7printlnEii
+ .text._ZL11SendControlh
+                0x00000cce       0x5c E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+ .text._ZL24USB_SendStringDescriptorPKhhh
+                0x00000d2a       0x6a E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+ .text._ZL15USB_ClockEnablev
+                0x00000d94       0x46 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+ .text._ZL14SendInterfacesv
+                0x00000dda       0x2c E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+ .text._ZN6LockEPC2Eh
+                0x00000e06       0x10 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+                0x00000e06                _ZN6LockEPC2Eh
+                0x00000e06                _ZN6LockEPC1Eh
+ .text._Z13USB_Availableh
+                0x00000e16       0x24 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+                0x00000e16                _Z13USB_Availableh
+ .text._Z8USB_RecvhPvi
+                0x00000e3a       0x84 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+                0x00000e3a                _Z8USB_RecvhPvi
+ .text._Z8USB_Recvh
+                0x00000ebe       0x2e E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+                0x00000ebe                _Z8USB_Recvh
+ .text._Z13USB_SendSpaceh
+                0x00000eec       0x34 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+                0x00000eec                _Z13USB_SendSpaceh
+ .text._Z8USB_SendhPKvi
+                0x00000f20      0x148 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+                0x00000f20                _Z8USB_SendhPKvi
+ .text._Z11InitControli
+                0x00001068       0x16 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+                0x00001068                _Z11InitControli
+ .text._Z15USB_SendControlhPKvi
+                0x0000107e       0x4e E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+                0x0000107e                _Z15USB_SendControlhPKvi
+ .text._Z15USB_RecvControlPvi
+                0x000010cc       0x56 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+                0x000010cc                _Z15USB_RecvControlPvi
+ .text.__vector_11
+                0x00001122      0x2c4 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+                0x00001122                __vector_11
+ .text._Z9USB_Flushh
+                0x000013e6       0x14 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+                0x000013e6                _Z9USB_Flushh
+ .text.__vector_10
+                0x000013fa       0xf0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+                0x000013fa                __vector_10
+ .text._ZN10USBDevice_6attachEv
+                0x000014ea       0x22 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+                0x000014ea                _ZN10USBDevice_6attachEv
+ .text.__vector_23
+                0x0000150c       0x94 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x0000150c                __vector_23
+ .text.millis   0x000015a0       0x18 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x000015a0                millis
+ .text.micros   0x000015b8       0x4a E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x000015b8                micros
+ .text.delay    0x00001602       0x78 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00001602                delay
+ .text.init     0x0000167a       0xac E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x0000167a                init
+ .text.turnOffPWM
+                0x00001726       0x7a E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .text.pinMode  0x000017a0       0x78 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000017a0                pinMode
+ .text.digitalWrite
+                0x00001818       0x5e E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00001818                digitalWrite
+ .text.digitalRead
+                0x00001876       0x52 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00001876                digitalRead
+ .text._ZN7TwoWire9availableEv
+                0x000018c8       0x10 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x000018c8                _ZN7TwoWire9availableEv
+ .text._ZN7TwoWire4readEv
+                0x000018d8       0x28 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x000018d8                _ZN7TwoWire4readEv
+ .text._ZN7TwoWire4peekEv
+                0x00001900       0x1e E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00001900                _ZN7TwoWire4peekEv
+ .text._ZN7TwoWire5flushEv
+                0x0000191e        0x2 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x0000191e                _ZN7TwoWire5flushEv
+ .text._ZN7TwoWire16onReceiveServiceEPhi
+                0x00001920       0x54 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00001920                _ZN7TwoWire16onReceiveServiceEPhi
+ .text._ZN7TwoWire16onRequestServiceEv
+                0x00001974       0x18 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00001974                _ZN7TwoWire16onRequestServiceEv
+ .text._ZN7TwoWire5writeEPKhj
+                0x0000198c       0x5a E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x0000198c                _ZN7TwoWire5writeEPKhj
+ .text._ZN7TwoWire5writeEh
+                0x000019e6       0x5e E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x000019e6                _ZN7TwoWire5writeEh
+ .text._ZN7TwoWireC2Ev
+                0x00001a44       0x20 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00001a44                _ZN7TwoWireC1Ev
+                0x00001a44                _ZN7TwoWireC2Ev
+ .text._ZN7TwoWire5beginEv
+                0x00001a64       0x14 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00001a64                _ZN7TwoWire5beginEv
+ .text._ZN7TwoWire5beginEh
+                0x00001a78       0x26 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00001a78                _ZN7TwoWire5beginEh
+ .text._ZN7TwoWire5beginEi
+                0x00001a9e        0x4 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00001a9e                _ZN7TwoWire5beginEi
+ .text._ZN7TwoWire9onReceiveEPFviE
+                0x00001aa2        0xa E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00001aa2                _ZN7TwoWire9onReceiveEPFviE
+ .text._ZN7TwoWire9onRequestEPFvvE
+                0x00001aac        0xa E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00001aac                _ZN7TwoWire9onRequestEPFvvE
+ .text.startup._GLOBAL__sub_I__ZN7TwoWire8rxBufferE
+                0x00001ab6        0x8 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text.__empty  0x00001abe        0x2 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                0x00001abe                yield
+ .text._ZN13PluggableUSB_12getInterfaceEPh
+                0x00001ac0       0x52 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(PluggableUSB.o)
+                0x00001ac0                _ZN13PluggableUSB_12getInterfaceEPh
+ .text._ZN13PluggableUSB_13getDescriptorER8USBSetup
+                0x00001b12       0x3e E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(PluggableUSB.o)
+                0x00001b12                _ZN13PluggableUSB_13getDescriptorER8USBSetup
+ .text._ZN13PluggableUSB_12getShortNameEPc
+                0x00001b50       0x3e E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(PluggableUSB.o)
+                0x00001b50                _ZN13PluggableUSB_12getShortNameEPc
+ .text._ZN13PluggableUSB_5setupER8USBSetup
+                0x00001b8e       0x3c E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(PluggableUSB.o)
+                0x00001b8e                _ZN13PluggableUSB_5setupER8USBSetup
+ .text._Z12PluggableUSBv
+                0x00001bca       0x28 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(PluggableUSB.o)
+                0x00001bca                _Z12PluggableUSBv
+ .text.twi_init
+                0x00001bf2       0x3c E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                0x00001bf2                twi_init
+ .text.twi_setAddress
+                0x00001c2e        0x8 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                0x00001c2e                twi_setAddress
+ .text.twi_transmit
+                0x00001c36       0x32 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                0x00001c36                twi_transmit
+ .text.twi_attachSlaveRxEvent
+                0x00001c68        0xa E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                0x00001c68                twi_attachSlaveRxEvent
+ .text.twi_attachSlaveTxEvent
+                0x00001c72        0xa E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                0x00001c72                twi_attachSlaveTxEvent
+ .text.twi_stop
+                0x00001c7c       0x14 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                0x00001c7c                twi_stop
+ .text.twi_releaseBus
+                0x00001c90        0xc E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                0x00001c90                twi_releaseBus
+ .text.__vector_36
+                0x00001c9c      0x25a E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                0x00001c9c                __vector_36
+ .text.libgcc.div
+                0x00001ef6       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x00001ef6                __udivmodsi4
+ .text.libgcc   0x00001f3a        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x00001f3a                __tablejump2__
+ .text.avr-libc
+                0x00001f46       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(sprintf.o)
+                0x00001f46                sprintf
+ .text.avr-libc
+                0x00001f8a      0x3c2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                0x00001f8a                vfprintf
+ .text.avr-libc
+                0x0000234c       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                0x0000234c                strnlen_P
+ .text.avr-libc
+                0x00002362       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                0x00002362                strnlen
+ .text.avr-libc
+                0x00002378       0x78 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+                0x00002378                fputc
+ .text.avr-libc
+                0x000023f0       0xbc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                0x000023f0                __ultoa_invert
+ .text.avr-libc
+                0x000024ac       0x10 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eerd_byte.o)
+                0x000024ac                eeprom_read_byte
+ .text.avr-libc
+                0x000024bc       0x1c C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eewr_byte.o)
+                0x000024bc                eeprom_write_byte
+                0x000024be                eeprom_write_r18
+ .text.libgcc.prologue
+                0x000024d8       0x38 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+                0x000024d8                __prologue_saves__
+ .text.libgcc.prologue
+                0x00002510       0x36 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+                0x00002510                __epilogue_restores__
+                0x00002546                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00002546        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00002546                _exit
+                0x00002546                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00002546        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000254a                _etext = .
+
+.data           0x00800100       0x98 load address 0x0000254a
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data._ZL10breakValue
+                0x00800100        0x4 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .data._ZL12_usbLineInfo
+                0x00800104        0x8 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .data._initEndpoints
+                0x0080010c        0x7 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+                0x0080010c                _initEndpoints
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x00800113       0x39 Sketch.o
+ .rodata._ZL11MONITOR_PIN
+                0x0080014c        0x8 Sketch.o
+ .rodata._ZL12SHUTDOWN_PIN
+                0x00800154        0x8 Sketch.o
+ .rodata._ZL9POWER_PIN
+                0x0080015c        0x8 Sketch.o
+ .rodata._ZTV7Serial_
+                0x00800164       0x12 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+                0x00800164                _ZTV7Serial_
+ .rodata.str1.1
+                0x00800176        0xf E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .rodata._ZTV7TwoWire
+                0x00800185       0x12 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800185                _ZTV7TwoWire
+ *(.gnu.linkonce.r*)
+                0x00800198                . = ALIGN (0x2)
+ *fill*         0x00800197        0x1 
+                0x00800198                _edata = .
+                0x00800198                PROVIDE (__data_end, .)
+
+.bss            0x00800198      0x23b
+                0x00800198                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.previousMillis
+                0x00800198        0x4 Sketch.o
+                0x00800198                previousMillis
+ .bss.is_in_shutdown
+                0x0080019c        0x1 Sketch.o
+                0x0080019c                is_in_shutdown
+ .bss.register_address
+                0x0080019d        0x2 Sketch.o
+                0x0080019d                register_address
+ .bss.received  0x0080019f        0x1 Sketch.o
+                0x0080019f                received
+ .bss.databuf   0x008001a0      0x100 Sketch.o
+                0x008001a0                databuf
+ .bss.Serial    0x008002a0       0x50 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+                0x008002a0                Serial
+ .bss._ZL11wdtcsr_save
+                0x008002f0        0x1 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .bss.USBDevice
+                0x008002f1        0x1 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+                0x008002f1                USBDevice
+ .bss._ZL5_cend
+                0x008002f2        0x2 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+ .bss._ZL6_cmark
+                0x008002f4        0x2 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+ .bss._usbSuspendState
+                0x008002f6        0x1 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+                0x008002f6                _usbSuspendState
+ .bss._usbCurrentStatus
+                0x008002f7        0x1 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+                0x008002f7                _usbCurrentStatus
+ .bss._usbConfiguration
+                0x008002f8        0x1 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+                0x008002f8                _usbConfiguration
+ .bss.RxLEDPulse
+                0x008002f9        0x1 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+                0x008002f9                RxLEDPulse
+ .bss.TxLEDPulse
+                0x008002fa        0x1 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+                0x008002fa                TxLEDPulse
+ .bss.timer0_fract
+                0x008002fb        0x1 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .bss.timer0_millis
+                0x008002fc        0x4 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x008002fc                timer0_millis
+ .bss.timer0_overflow_count
+                0x00800300        0x4 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00800300                timer0_overflow_count
+ .bss.Wire      0x00800304        0xc E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800304                Wire
+ .bss._ZN7TwoWire14user_onReceiveE
+                0x00800310        0x2 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800310                _ZN7TwoWire14user_onReceiveE
+ .bss._ZN7TwoWire14user_onRequestE
+                0x00800312        0x2 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800312                _ZN7TwoWire14user_onRequestE
+ .bss._ZN7TwoWire12transmittingE
+                0x00800314        0x1 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800314                _ZN7TwoWire12transmittingE
+ .bss._ZN7TwoWire14txBufferLengthE
+                0x00800315        0x1 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800315                _ZN7TwoWire14txBufferLengthE
+ .bss._ZN7TwoWire13txBufferIndexE
+                0x00800316        0x1 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800316                _ZN7TwoWire13txBufferIndexE
+ .bss._ZN7TwoWire8txBufferE
+                0x00800317       0x20 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800317                _ZN7TwoWire8txBufferE
+ .bss._ZN7TwoWire14rxBufferLengthE
+                0x00800337        0x1 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800337                _ZN7TwoWire14rxBufferLengthE
+ .bss._ZN7TwoWire13rxBufferIndexE
+                0x00800338        0x1 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800338                _ZN7TwoWire13rxBufferIndexE
+ .bss._ZN7TwoWire8rxBufferE
+                0x00800339       0x20 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800339                _ZN7TwoWire8rxBufferE
+ .bss._ZZ12PluggableUSBvE3obj
+                0x00800359        0x4 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(PluggableUSB.o)
+ .bss._ZGVZ12PluggableUSBvE3obj
+                0x0080035d        0x8 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(PluggableUSB.o)
+ .bss.twi_error
+                0x00800365        0x1 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_rxBufferIndex
+                0x00800366        0x1 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_rxBuffer
+                0x00800367       0x20 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_txBufferLength
+                0x00800387        0x1 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_txBufferIndex
+                0x00800388        0x1 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_txBuffer
+                0x00800389       0x20 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_masterBufferLength
+                0x008003a9        0x1 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_masterBufferIndex
+                0x008003aa        0x1 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_masterBuffer
+                0x008003ab       0x20 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_onSlaveReceive
+                0x008003cb        0x2 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_onSlaveTransmit
+                0x008003cd        0x2 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_inRepStart
+                0x008003cf        0x1 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_sendStop
+                0x008003d0        0x1 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_slarw
+                0x008003d1        0x1 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_state
+                0x008003d2        0x1 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ *(COMMON)
+                0x008003d3                PROVIDE (__bss_end, .)
+                0x0000254a                __data_load_start = LOADADDR (.data)
+                0x000025e2                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008003d3        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x008003d3                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x5c
+ *(.comment)
+ .comment       0x00000000       0x30 Sketch.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .comment       0x00000030       0x31 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .comment       0x00000030       0x31 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .comment       0x00000030       0x31 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+ .comment       0x00000030       0x31 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .comment       0x00000030       0x31 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .comment       0x00000030       0x31 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .comment       0x00000030       0x31 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .comment       0x00000030       0x31 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(PluggableUSB.o)
+ .comment       0x00000030       0x31 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .comment       0x00000030       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(sprintf.o)
+ .comment       0x00000030       0x2c c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                                 0x2d (size before relaxing)
+ .comment       0x0000005c       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x5f0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x88 Sketch.o
+ .debug_aranges
+                0x00000088       0xd8 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .debug_aranges
+                0x00000160       0x30 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_aranges
+                0x00000190      0x100 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_aranges
+                0x00000290       0xd8 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+ .debug_aranges
+                0x00000368       0x48 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_aranges
+                0x000003b0       0x38 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_aranges
+                0x000003e8       0xe8 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .debug_aranges
+                0x000004d0       0x20 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_aranges
+                0x000004f0       0x50 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(PluggableUSB.o)
+ .debug_aranges
+                0x00000540       0x70 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .debug_aranges
+                0x000005b0       0x20 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eerd_byte.o)
+ .debug_aranges
+                0x000005d0       0x20 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eewr_byte.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xcfd0
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x9f4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+ .debug_info    0x000009f4     0x177a Sketch.o
+ .debug_info    0x0000216e     0x29f0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .debug_info    0x00004b5e      0x35a E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_info    0x00004eb8     0x292d E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_info    0x000077e5     0x1a0c E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+ .debug_info    0x000091f1      0x2f9 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_info    0x000094ea      0x632 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_info    0x00009b1c     0x25f0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .debug_info    0x0000c10c       0x3e E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_info    0x0000c14a      0x79f E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(PluggableUSB.o)
+ .debug_info    0x0000c8e9      0x5b3 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .debug_info    0x0000ce9c       0x9a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eerd_byte.o)
+ .debug_info    0x0000cf36       0x9a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eewr_byte.o)
+
+.debug_abbrev   0x00000000     0x2d11
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x96a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+ .debug_abbrev  0x0000096a      0x49c Sketch.o
+ .debug_abbrev  0x00000e06      0x602 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .debug_abbrev  0x00001408      0x19a E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_abbrev  0x000015a2      0x47a E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_abbrev  0x00001a1c      0x5c8 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+ .debug_abbrev  0x00001fe4      0x146 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_abbrev  0x0000212a      0x15a E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_abbrev  0x00002284      0x524 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .debug_abbrev  0x000027a8       0x2a E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_abbrev  0x000027d2      0x2c5 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(PluggableUSB.o)
+ .debug_abbrev  0x00002a97      0x252 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .debug_abbrev  0x00002ce9       0x14 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eerd_byte.o)
+ .debug_abbrev  0x00002cfd       0x14 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eewr_byte.o)
+
+.debug_line     0x00000000     0x34a6
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x19a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+ .debug_line    0x0000019a      0x711 Sketch.o
+ .debug_line    0x000008ab      0x690 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .debug_line    0x00000f3b      0x17c E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_line    0x000010b7      0x68a E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_line    0x00001741      0x9c1 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+ .debug_line    0x00002102      0x2c3 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_line    0x000023c5      0x26f E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_line    0x00002634      0x590 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .debug_line    0x00002bc4       0x41 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_line    0x00002c05      0x2e3 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(PluggableUSB.o)
+ .debug_line    0x00002ee8      0x4a6 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .debug_line    0x0000338e       0x7a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eerd_byte.o)
+ .debug_line    0x00003408       0x9e C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5\libatmega32u4.a(eewr_byte.o)
+
+.debug_frame    0x00000000     0x1104
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x244 Sketch.o
+ .debug_frame   0x00000244      0x1d8 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .debug_frame   0x0000041c       0x54 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_frame   0x00000470      0x3ac E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_frame   0x0000081c      0x378 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+ .debug_frame   0x00000b94       0xc4 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_frame   0x00000c58       0x7c E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_frame   0x00000cd4      0x20c E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .debug_frame   0x00000ee0       0x24 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_frame   0x00000f04       0xec E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(PluggableUSB.o)
+ .debug_frame   0x00000ff0      0x114 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+
+.debug_str      0x00000000     0x37e5
+ *(.debug_str)
+ .debug_str     0x00000000      0x371 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.4.351/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+ .debug_str     0x00000371      0xa3f Sketch.o
+                                0xae0 (size before relaxing)
+ .debug_str     0x00000db0     0x1640 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+                               0x1a19 (size before relaxing)
+ .debug_str     0x000023f0      0x15c E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                                0x3a6 (size before relaxing)
+ .debug_str     0x0000254c      0x35e E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                               0x1232 (size before relaxing)
+ .debug_str     0x000028aa      0x693 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+                                0xc66 (size before relaxing)
+ .debug_str     0x00002f3d      0x153 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                                0x23a (size before relaxing)
+ .debug_str     0x00003090       0xd5 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                                0x2b9 (size before relaxing)
+ .debug_str     0x00003165      0x4d1 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                               0x185f (size before relaxing)
+ .debug_str     0x00003636       0x1c E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                                0x12f (size before relaxing)
+ .debug_str     0x00003652       0x4c E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(PluggableUSB.o)
+                                0x5ab (size before relaxing)
+ .debug_str     0x0000369e      0x147 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                                0x38a (size before relaxing)
+
+.debug_loc      0x00000000     0x5c98
+ *(.debug_loc)
+ .debug_loc     0x00000000      0xc4c Sketch.o
+ .debug_loc     0x00000c4c      0x790 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .debug_loc     0x000013dc     0x1c87 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_loc     0x00003063     0x1210 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+ .debug_loc     0x00004273      0x28d E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_loc     0x00004500      0x665 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_loc     0x00004b65      0x959 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .debug_loc     0x000054be      0x445 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(PluggableUSB.o)
+ .debug_loc     0x00005903      0x395 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x748
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0x158 Sketch.o
+ .debug_ranges  0x00000158       0xe0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(CDC.o)
+ .debug_ranges  0x00000238       0x20 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_ranges  0x00000258      0x120 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_ranges  0x00000378      0x1d0 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(USBCore.o)
+ .debug_ranges  0x00000548       0x38 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_ranges  0x00000580       0x28 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_ranges  0x000005a8       0xd8 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .debug_ranges  0x00000680       0x10 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_ranges  0x00000690       0x58 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(PluggableUSB.o)
+ .debug_ranges  0x000006e8       0x60 E:\jerry\Documents\GitHubClones\cspb\Firmware\CSPB\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(ATmega32u4_cspb_processor.elf elf32-avr)
+LOAD linker stubs
