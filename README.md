@@ -2,7 +2,7 @@
 
 # Cluster System Power Board
 
-![CSPB](/Documents/CSPB_Board.png)
+<center>![CSPB](/Documents/CSPB_Board.png)</center>
 
 ## About
 
