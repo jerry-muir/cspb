@@ -2,7 +2,7 @@
 
 # Cluster System Power Board
 
-<center>![CSPB](../Documents/CSPB_Board.png)</center>
+<center>![CSPB](https://github.com/jerry-muir/cspb/blob/Repository-setup/Documents/CSPB_Board.png)</center>
 
 ## About
 
